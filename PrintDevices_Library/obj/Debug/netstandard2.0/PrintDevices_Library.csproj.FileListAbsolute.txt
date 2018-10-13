@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\bin\Debug\netstandard2.0\PrintDevices_Library.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\bin\Debug\netstandard2.0\PrintDevices_Library.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\bin\Debug\netstandard2.0\PrintDevices_Library.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Task3_PrintDevices\PrintDevices_Library\obj\Debug\netstandard2.0\PrintDevices_Library.pdb
